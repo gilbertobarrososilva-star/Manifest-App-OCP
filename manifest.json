@@ -1,0 +1,52 @@
+{
+  "background_color": "#6b3ebc",
+  "description": "        O Código da Prosperidade | App Financeiro                   Espaço da logo (salve como logo.png )       App Web | App Financeiro    ...",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "O Código da Prosperidade: Finanças",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "OCP-Finanças",
+  "start_url": "/",
+  "theme_color": "#0d4716",
+  "icons": [
+    {
+      "src": "https://www.6cxocodigodaprosperidade.com.br/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkyjOiLlcAynJGh6iIEnefhbgrzxErRGHC5Y42up6ymKWcSsOuB_0otYDz0HtisKmX0NfJE2D8wPk2C9DC8b9lxHU8_9Am5wbzN7tinV6R_62tGjfLkuzKWQr9YkoYviO6kHYNuSot6Vf56_bSLHz2XJjZlsyDsMIAw209imZ65BkjXEuCqTFnuLoQy6I/w1200-h630-p-k-no-nu/1001141836.png",
+      "type": "image/png",
+      "sizes": "1200x630",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1200,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://www.6cxocodigodaprosperidade.com.br/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "br.com.ocp.financas"
+}
